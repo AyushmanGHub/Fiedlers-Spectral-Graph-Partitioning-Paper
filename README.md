@@ -29,23 +29,6 @@ This project focuses on:
 | `spectral_partitioning.py`| Python implementation of spectral graph partitioning    |
 | `README.md`               | Project documentation and overview                      |
 
-## ⚙️ Implementation Examples
-
-Two example graphs are partitioned using the Fiedler vector:
-- **Example 1**: 8-node graph with 2 lost edges post partition.
-- **Example 2**: 10-node graph with 2 lost edges post partition.
-
-Both examples demonstrate the effectiveness of spectral partitioning in minimizing cut edges and balancing subgraphs.
-
-
-## ⚠️ Limitations
-
-The technique may not work effectively on:
-- **Star graphs** or graphs with highly skewed degree distributions.
-- Graphs with **uneven edge densities**.
-- In such cases, the partition produced by the Fiedler vector may be unbalanced or less meaningful.
-
-
 This project demonstrates both the **theoretical depth** and **practical applications** of **Fiedler’s Spectral Graph Partitioning** through detailed mathematical proofs, Python implementations, and case studies.
 
 

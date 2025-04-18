@@ -12,13 +12,16 @@ This project focuses on:
 - Discussion of real-world applications, limitations, and possible future extensions.
 
 
-## 📚 Theory Highlights
 
+## 📚 Theory Highlights
 - Constructs the **graph Laplacian matrix** using adjacency and degree matrices.
-- Uses the **second smallest eigenvalue (λ₂)**, known as the **Fiedler value**, and its corresponding **Fiedler vector**.
-- Partitions the graph by the **signs of the entries** in the Fiedler vector.
-- Minimizes the number of edges cut between partitions while encouraging balance.
-- Proves that the resulting subgraphs are **always connected**.
+- Computes the **second smallest eigenvalue (λ₂)** — the **Fiedler value**.
+- Uses the **Fiedler vector** (the eigenvector corresponding to λ₂) to partition the graph based on the signs of its entries.
+- Aims to:
+  - Minimize the number of edges cut between partitions.
+  - Maintain balance in the size of partitions.
+- Guarantees that resulting subgraphs remain **connected** under typical conditions.
+
 
 
 ## 📝 Project Content

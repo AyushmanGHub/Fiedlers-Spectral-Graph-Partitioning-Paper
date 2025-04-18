@@ -36,7 +36,13 @@ This project demonstrates both the **theoretical depth** and **practical applica
 
 
 ## 📜 License
-
 This project is open-source and available under the [MIT License](LICENSE).
 
 For questions or collaborations, feel free to connect:
+## 📦 Additional Resources
+
+This repository also includes:
+- 📓 Python Notebook files for interactive demonstrations.
+- 📑 A detailed project report paper.
+- 📂 All supporting resources to help you dive deeper into the concepts and implementations.
+Feel free to explore them in the repository — everything you need to learn, test, and extend this project is right here.

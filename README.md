@@ -34,15 +34,14 @@ This project covers:
 
 This project demonstrates both the **theoretical depth** and **practical applications** of **Fiedler’s Spectral Graph Partitioning** through detailed mathematical proofs, Python implementations, and case studies.
 
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
-For questions or collaborations, feel free to connect:
-## 📦 Additional Resources
-
 This repository also includes:
 - 📓 Python Notebook files for interactive demonstrations.
 - 📑 A detailed project report paper.
 - 📂 All supporting resources to help you dive deeper into the concepts and implementations.
 Feel free to explore them in the repository — everything you need to learn, test, and extend this project is right here.
+This project is open-source and available under the [MIT License](LICENSE)
+
+## 🤝 Let’s Connect!
+😊 I’m always open to meaningful conversations, collaborative projects, and idea exchanges in the fields of graph theory, machine learning, and data science.
+If you’re interested in discussing new insights, working together on related topics, or contributing to ongoing discussions — feel free to reach out!
+Let’s learn and build together 🚀

@@ -1,6 +1,7 @@
 # 📊 Fiedler's Theory of Spectral Graph Partitioning
 
-This repository presents a detailed exploration of **Fiedler’s Theory of Spectral Graph Partitioning** — a powerful technique in graph theory and network analysis for dividing a graph into meaningful, balanced, and connected partitions using the **second smallest eigenvalue** and its associated **Fiedler vector**.
+This repository offers an in-depth exploration of **Fiedler’s Theory of Spectral Graph Partitioning** — a foundational technique in graph theory and network analysis. It divides a graph into balanced, meaningful, and connected subgraphs using the properties of the **second smallest eigenvalue** (the **Fiedler value**) and its associated **Fiedler vector**.
+
 
 ## 📖 Overview
 

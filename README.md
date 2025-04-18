@@ -1,1 +1,1 @@
-# Fiedlers-Spectral-Graph-Partitioning-Paper
+# Fiedlers Spectral Graph Partitioning Paper

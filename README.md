@@ -4,13 +4,12 @@ This repository presents a detailed exploration of **Fiedler’s Theory of Spect
 
 ## 📖 Overview
 
-**Spectral Graph Partitioning** uses the properties of a graph's **Laplacian matrix** to partition nodes into two or more connected components.  
-This project focuses on:
-- The theoretical foundations proposed by **Miroslav Fiedler**.
-- Mathematical proof of correctness.
-- Python implementations of spectral partitioning on example graphs.
-- Discussion of real-world applications, limitations, and possible future extensions.
-
+**Spectral Graph Partitioning** leverages the spectral properties of a graph’s **Laplacian matrix** to efficiently partition its vertices.  
+This project covers:
+- The theoretical foundation as introduced by **Miroslav Fiedler**.
+- A mathematical proof of correctness.
+- Python implementation of spectral partitioning on example graphs.
+- Real-world applications, limitations, and potential future extensions.
 
 
 ## 📚 Theory Highlights

@@ -24,8 +24,6 @@ This project covers:
   * Maintains a balanced size between the resulting partitions.
   * Ensures subgraphs remain **connected**, as proven mathematically.
 
----
-
 ## 🗂️ Project Contents
 
 | 📄 File                    | 📑 Description                                                 |
@@ -36,40 +34,6 @@ This project covers:
 | `latex_resources/`         | LaTeX source files used to generate the main paper             |
 
 > 🔍 *Explore the notebooks, paper, and implementation files to understand, test, and extend the concepts presented.*
-
----
-
-## 🚀 Applications
-
-Spectral graph partitioning has wide-ranging applications including:
-
-
-
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-Feel free to use, share, or build upon the work — credits are appreciated.
-
----
-
-## 🤝 Let’s Connect!
-
-😊 I'm always open to **collaborations, technical discussions, and project contributions** related to graph theory, machine learning, and data science.
-
-If you're interested in:
-
-* Sharing ideas,
-* Working together on similar projects,
-* Or just chatting about spectral methods and their impact —
-
-**Let’s connect and grow together 🚀**
-
----
-
-Would you like a `LICENSE` file or `.gitignore` template included as well to complete your repo setup?
 
 
 ## 🤝 Let’s Connect!

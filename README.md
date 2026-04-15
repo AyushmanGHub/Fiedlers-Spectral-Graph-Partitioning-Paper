@@ -34,9 +34,3 @@ This project covers:
 | `latex_resources/`         | LaTeX source files used to generate the main paper             |
 
 > 🔍 *Explore the notebooks, paper, and implementation files to understand, test, and extend the concepts presented.*
-
-
-## 🤝 Let’s Connect!
-😊 I’m always open to meaningful conversations, collaborative projects, and idea exchanges in the fields of graph theory, machine learning, and data science.
-If you’re interested in discussing new insights, working together on related topics, or contributing to ongoing discussions — feel free to reach out!
-Let’s learn and build together 🚀

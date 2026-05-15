@@ -1,20 +1,18 @@
-## 📊 Fiedler's Theory of Spectral Graph Partitioning
+## **Fiedler's Theory of Spectral Graph Partitioning**
 
 This repository offers an in-depth exploration of **Fiedler’s Theory of Spectral Graph Partitioning** — a foundational technique in graph theory and network analysis. It divides a graph into balanced, meaningful, and connected subgraphs using the properties of the **second smallest eigenvalue** (the **Fiedler value**) and its associated **Fiedler vector**.
 
 
-## 📖 Overview
+## Overview
 **Spectral Graph Partitioning** leverages the spectral properties of a graph’s **Laplacian matrix** to efficiently partition its vertices.
 
 This project covers:
-* 📘 The theoretical foundation as introduced by **Miroslav Fiedler**.
-* ✅ A complete mathematical proof ensuring partition correctness and connectivity.
-* 🧮 Python implementation of spectral partitioning on example graphs.
-* 🌍 Real-world applications, key limitations, and directions for further exploration.
+* The theoretical foundation as introduced by **Miroslav Fiedler**.
+* A complete mathematical proof ensuring partition correctness and connectivity.
+* Python implementation of spectral partitioning on example graphs.
+* Real-world applications, key limitations, and directions for further exploration.
 
----
-
-## 📚 Theory Highlights
+## Theory Highlights
 
 * Constructs the **graph Laplacian matrix** from adjacency and degree matrices.
 * Computes the **second smallest eigenvalue (λ₂)** — the **Fiedler value**.
@@ -23,14 +21,17 @@ This project covers:
   * Minimizes the number of cut edges between groups.
   * Maintains a balanced size between the resulting partitions.
   * Ensures subgraphs remain **connected**, as proven mathematically.
+  
+#### Graph Partitioning using **Fiedler value/vector**
+<p align="center">
+<img src="Paper Resource/figures/image05.png" width="700" height = 350>
+</p>
 
-## 🗂️ Project Contents
+## Project Contents
 
-| 📄 File                    | 📑 Description                                                 |
+|    File                    |    Description                                                 |
 | -------------------------- | -------------------------------------------------------------- |
 | `presentation.pdf`         | Complete slide deck covering theory, proof, examples           |
 | `main_paper.pdf`           | Final report paper documenting the research and implementation |
 | `notebooks/`               | Jupyter notebooks for interactive demonstrations               |
 | `latex_resources/`         | LaTeX source files used to generate the main paper             |
-
-> 🔍 *Explore the notebooks, paper, and implementation files to understand, test, and extend the concepts presented.*
